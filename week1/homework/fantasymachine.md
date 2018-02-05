@@ -1,1 +1,1 @@
-![](https://www.dropbox.com/s/gh3w7y7r35053tr/FantasyMachine.jpg?dl=0)
+![Fantasy Mschine](CIM-642/homework/week1/images/FantasyMachine.jpg)
