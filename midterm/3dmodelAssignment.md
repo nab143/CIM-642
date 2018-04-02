@@ -1,5 +1,6 @@
 Glove Light
 ![3D model of casing - front view](https://www.dropbox.com/s/rsxo1eq20h8by7b/Screen%20Shot%202018-04-01%20at%2010.02.31%20PM.png?dl=0)
+https://www.dropbox.com/s/rsxo1eq20h8by7b/Screen%20Shot%202018-04-01%20at%2010.02.31%20PM.png?dl=0
 ![3D model of casing - side view](https://www.dropbox.com/s/7y9wpe4qr6nvgm9/Screen%20Shot%202018-04-01%20at%2010.03.31%20PM.png?dl=0)
 ![Sketch of casing - dimensions](https://www.dropbox.com/s/y4dhldbb2d7opgy/Screen%20Shot%202018-04-01%20at%2010.04.22%20PM.png?dl=0)
 
