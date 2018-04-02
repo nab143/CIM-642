@@ -15,15 +15,21 @@ Packaging:
 -Plastic or fabric (to cover the remaining hardware)
 
 Example Projects:
-![Iron Man Hand](https://www.youtube.com/watch?v=-CC5jz0qOBo)
-![Project using Hand Gestures](https://create.arduino.cc/projecthub/pillai-hoc-college/alexa-at-your-fingertips-2fce93?ref=tag&ref_id=wearables&offset=74)
-![LED Ring](https://www.youtube.com/watch?v=IT5Zt1ORaaY)
+Iron Man Hand
+https://www.youtube.com/watch?v=-CC5jz0qOBo
+Project using Hand Gestures
+https://create.arduino.cc/projecthub/pillai-hoc-college/alexa-at-your-fingertips-2fce93?ref=tag&ref_id=wearables&offset=74
+LED Ring
+https://www.youtube.com/watch?v=IT5Zt1ORaaY
 
 Idea 2: Musical Drum Sticks
 
 Description: A piezo and LEDs will be connected to two drumsticks. The sound and light will change as the user moves the drumsticks. For example; as the drumstick lowers, the sound will get deeper and the LED will become brighter.
 
 Example Projects:
-![Virtual Drum Sticks](https://www.youtube.com/watch?v=x8kiiMCqjqk)
-![Virtual Drum Kit](https://www.youtube.com/watch?v=wgptHLBI0e4)
-![Color Changing Drum Sticks](https://www.kickstarter.com/projects/bigltd/rockstix-2-colour-change-led-light-up-drumsticks)
+Virtual Drum Sticks
+https://www.youtube.com/watch?v=x8kiiMCqjqk
+Virtual Drum Kit
+https://www.youtube.com/watch?v=wgptHLBI0e4
+Color Changing Drum Sticks
+https://www.kickstarter.com/projects/bigltd/rockstix-2-colour-change-led-light-up-drumsticks
