@@ -2,7 +2,7 @@ Final Project Ideas
 
 1) Upgrade midterm project (Glove Light):
 
-	The intent of the glove light is to use hand gestures to control different modes of light. 
+	The purpose of the glove light is to use hand gestures to control different modes of light. 
 
 	As of now, the glove light uses 5 flex sensors to control 5 basic red LED lights with one hand gesture. As the hand opens, the LEDs become brighter. As the hand closes, the LEDs dim to off. 
 	
